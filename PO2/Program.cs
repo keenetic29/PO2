@@ -65,7 +65,7 @@ namespace PO2
             }
           });
 
-      // Stop the timer
+
       stopwatch.Stop();
 
       Console.WriteLine($"Времени потребовалось: {stopwatch.Elapsed}");
